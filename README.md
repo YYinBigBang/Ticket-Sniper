@@ -1,2 +1,2 @@
 ## Disclaimers
-The code provided is intended for research purposes only. Any illegal use of the code is solely the responsibility of the user.
+This library is intended for use in automated testing and development environments only and should not be used for any illegal or malicious purposes. Any use of this library for activities that violate the terms of service of any website or service is strictly prohibited. The contributors of this library will not be held liable for any damages or legal issues that may arise from the use of this library. By using this library, you agree to these terms and take full responsibility for your actions.
